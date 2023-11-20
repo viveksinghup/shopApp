@@ -5,7 +5,6 @@ import Home from "./component/Home";
 import Footer from "./component/Footer";
 import Counter from "./component/Counter";
 import Enquery from "./component/Enquery";
-import Users from "./component/Users";
 import UserFunComp from "./component/UserFunComp";
 import KhataBook from "./component/KhataBook";
 import ShopApp from "./ShopApp/Index";
