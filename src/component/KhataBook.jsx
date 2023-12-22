@@ -30,7 +30,7 @@ const KhataBook = () => {
                         <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="logo" className="img" />
                     </div>
                     <div className="heroBlock-text">
-                        Header Label
+                        Headers Label
                     </div>
                 </div>
                 <div className="container-body">
